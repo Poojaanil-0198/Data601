@@ -1,11 +1,6 @@
 50 Years of  Data Science 
 
 
-
 Data science is having a tremendous moment right now. However, there is no one definition of data science. In recent years, there has been a significant increase in the number of data science employment available. The separation between statistics and data science is one of the most difficult aspects of defining data science. Statisticians also consider their occupational work as collection, analysis, visualization.  However, many statisticians are skeptical since their tasks are like those of data scientists. Statisticians believed that they deal with large data and handle the same. They also claimed to be confused with data science theories and concepts.  
 
 Scientists such as John Turkey, Cleveland, and Chambers attempted to broaden the scope of statistics by incorporating machine learning techniques. The efforts result in the assertion that the quantitative program is the distinguishing feature. Machine learnings a blend of predictive modeling and Common Task Framework. CFT plays a huge role in the success of machine learning. CFT is composed of Training data set, class prediction rules for data and testing for prediction accuracy. Overall, Data science is a superset which has information technology at the center of it along with statistics. 
-
-
-
-
