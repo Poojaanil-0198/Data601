@@ -1,0 +1,4 @@
+Good job! Make sure you have titles for all the plots next time!
+
+hw: 100
+lab: 100
