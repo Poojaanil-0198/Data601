@@ -1,0 +1,19 @@
+Excellent work with everything except last question in the lab.
+You've got a wrong answer!
+
+Try with the below mentioned possible solution
+
+def custom_func(x):
+    c= 0
+    for i in x:
+        if i > 60:
+            break
+        else:
+            c+=1
+
+    return c
+
+flights.sort_values(by=['year','month', 'day']).groupby('tailnum').dep_delay.apply(custom_func)
+
+hw: 100
+lab: 90
