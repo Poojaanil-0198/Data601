@@ -1,0 +1,4 @@
+Should've limited your outputs using head() function. 
+
+hw: 90
+lab: 100
